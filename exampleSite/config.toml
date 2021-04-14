@@ -1,6 +1,6 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = ""blog" is not defined"
+title = "\"blog\" is not defined"
 theme = "ink"
 paginate = 5
 
@@ -13,8 +13,7 @@ pygmentscodefencesguesssyntax = true
 googleAnalytics = ""
 
 [params]
-	subtitle = "Uncaught ReferenceError: blog is not defined \n
-    at <anonymous>:7:13"
+	subtitle = "Uncaught ReferenceError: blog is not defined \n at <anonymous>:7:13"
 
 	# Optional 64x64 avatar image.
 	avatar = "https://i.ibb.co/vdVmPZn/unnamed.png"
