@@ -1,5 +1,5 @@
 ---
-title: "Using AWS AppSync client in lambda resolver"
+title: "How to use AWS AppSync client in lambda resolver?"
 date: 2018-03-18T02:01:58+05:30
 description: "In this article, I'll explain how we can execute graphql query & mutations in AWS lambda resolver using AWSAppSyncClient."
 tags: [AWS, APPSYNC, javascript, awslambda, graphql, amplify]
