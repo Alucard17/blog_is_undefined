@@ -1,6 +1,6 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "Ink"
+title = ""blog" is not defined"
 theme = "ink"
 paginate = 5
 
@@ -10,14 +10,14 @@ pygmentsstyle = "vs"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-googleAnalytics = "UA-123-45"
-disqusShortname = "ink-demo"
+googleAnalytics = ""
 
 [params]
-	subtitle = "Crisp, minimal personal [blog theme for Hugo](https://github.com/knadh/hugo-ink)"
+	subtitle = "Uncaught ReferenceError: blog is not defined \n
+    at <anonymous>:7:13"
 
 	# Optional 64x64 avatar image.
-	avatar = "https://image.freepik.com/free-vector/young-man-head-with-beard-avatar-character_24877-36786.jpg"
+	avatar = "https://i.ibb.co/vdVmPZn/unnamed.png"
 
 	# Content types to disable Disqus on.
 	disableDisqusTypes = ["page"]
